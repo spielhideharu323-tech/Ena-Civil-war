@@ -1,0 +1,18 @@
+characters = {
+	
+	AKE_vyner_brooke = {
+		name = "明智"
+		portraits = {
+			civilian = {
+				large = aketi_komisen
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "1965.1.1.1"
+			traits = { }
+			id = -1
+		}
+	}
+	
+}

@@ -1,0 +1,18 @@
+characters = {
+	
+	NKA_vyner_brooke = {
+		name = "中野方"
+		portraits = {
+			civilian = {
+				large = nakanohou_komisen
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "1965.1.1.1"
+			traits = { }
+			id = -1
+		}
+	}
+	
+}

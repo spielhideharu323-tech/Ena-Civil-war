@@ -1,0 +1,18 @@
+characters = {
+	
+	HIG_vyner_brooke = {
+		name = "東野"
+		portraits = {
+			civilian = {
+				large = higashino_komisen
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "1965.1.1.1"
+			traits = { }
+			id = -1
+		}
+	}
+	
+}
