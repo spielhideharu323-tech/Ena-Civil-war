@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = ""
+		texturefile = ""
+	}
+
+}
